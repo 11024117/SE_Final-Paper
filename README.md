@@ -60,7 +60,7 @@
  
    订单管理员当订餐者下订单后要立即生成新订单, 如果订单有所改动需及时更新(查询、修改、删除)。
 
- ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-4.drawio.png)
+ ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-41.drawio.png)
 
  **3.5 系统管理员用例图**
  
