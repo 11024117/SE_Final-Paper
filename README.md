@@ -48,7 +48,7 @@
   
   商家可以登录系统,登录后需要对订餐者的订单进行核实并安排配送,然后更新店铺有关餐饮信息(增加、删除、修改)。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-2.drawio.png)
 
 **3.3 店铺管理员用例图** 
 
