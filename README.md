@@ -36,7 +36,7 @@
 
 大学生网上订餐系统的参与者有:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/3.drawio.png)
 
 **3.1 订餐者用例图**
 
