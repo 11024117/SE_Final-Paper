@@ -42,7 +42,7 @@
 
   订餐者可以登录系统,登录后可以订餐,订餐过程包括选择店铺、选择餐饮、下订单以及到餐付款,用餐后还可以对餐饮进行评价。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-1.drawio.png)
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-11.drawio.png)
 
 **3.2 商家用例图** 
   
