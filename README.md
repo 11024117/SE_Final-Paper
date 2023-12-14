@@ -42,25 +42,25 @@
 
   订餐者可以登录系统,登录后可以订餐,订餐过程包括选择店铺、选择餐饮、下订单以及到餐付款,用餐后还可以对餐饮进行评价。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-111.drawio.png)
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-1.drawio.png)
 
 **3.2 商家用例图** 
   
   商家可以登录系统,登录后需要对订餐者的订单进行核实并安排配送,然后更新店铺有关餐饮信息(增加、删除、修改)。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-2.drawio.png)
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-2.drawio.png)
 
 **3.3 店铺管理员用例图** 
 
  店铺管理员可以更新店铺信息(包括录入新申请通过的商家、修改、删除和 查询店铺信息),还要为每一个店铺建立客户评价档案盒商家监察档案。
 
- ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-3.drawio.png)
+ ![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-3.drawio.png)
 
  **3.4 订单管理员用例图**
  
    订单管理员当订餐者下订单后要立即生成新订单, 如果订单有所改动需及时更新(查询、修改、删除)。
 
- ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E6%9B%B43-41.drawio.png)
+ ![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-4.drawio.png)
 
  **3.5 系统管理员用例图**
  
@@ -174,11 +174,11 @@
 
 (5)退出系统。 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.5-1.png)
 
 根据店铺管理员建立商家监察档案的时序图可以创建如下协作图: 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.5-2.png)
 
 **5.1.6 订单管理员管理订单**
 
