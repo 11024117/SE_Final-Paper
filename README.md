@@ -66,13 +66,13 @@
  
   系统管理员可以登录系统,对商家和订餐者的信息进行管理(增加、删除、 修改、查询),还有系统的维护。
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-5.drawio.png)
 
  **4 系统静态模型**  
  
   由需求分析中知,我们可以依据主要六个类对象:订餐者、订单管理员、商家、店铺管理员、系统管理员、订单、店铺和餐饮创建完整的类图。
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/4.drawio.png)
 
 **5.1.1 订餐者订餐** 
   
@@ -98,9 +98,11 @@
 
   (11)用餐后对餐饮进行评价。
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/5-1-1.1.drawio.png)
 
 根据订餐者订餐的时序图可以创建如下协作图:
+
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/5-1-1.2.drawio.png)
 
 **5.1.2 商家管理店铺**
 
