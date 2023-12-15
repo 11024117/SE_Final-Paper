@@ -140,7 +140,7 @@
 
 (5)提交成功,退出系统。  
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.3-1.drawio.png)
 
 根据店铺管理员管理店铺信息的时序图可以创建如下协作图
 
