@@ -122,7 +122,7 @@
 
 (8)提交成功,退出系统。 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.2-1.drawio.png)
 
 根据商家管理店铺的时序图可以创建如下协作图:
 
