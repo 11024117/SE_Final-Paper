@@ -158,11 +158,11 @@
 
 (5)退出系统。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.4-1.drawio.png)
 
 根据店铺管理员建立客户评价档案的时序图可以创建如下协作图:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.4-2.drawio.png)
 
 **5.1.5 店铺管理员建立商家监察档案**
 
