@@ -212,7 +212,7 @@
 
 (7)提交成功,退出系统。 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.7-1.png)
 
 **5.1.8 系统管理员管理商家信息**
 
