@@ -214,6 +214,10 @@
 
 ![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.7-1.png)
 
+根据系統管理员管理订餐者信息的时序图可以创建如下协作图:
+
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.7-2.png)
+
 **5.1.8 系统管理员管理商家信息**
 
 (1)系统管理员注册一个自己的登录账号:
