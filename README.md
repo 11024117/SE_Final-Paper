@@ -262,13 +262,13 @@
 
 根据大学生网上订餐系统的整个活动过程,创建了如下的系统活动图
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.2%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.png)
 
 **5.3 系统状态图**
 
 根据前面的分析和设计可以发现,每个参与者在使用系统前都需要进行登录,登录之后就可以进行各自相应的操作,操作完成后退出系统。创建的系统状态图如下: 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.3%E7%B3%BB%E7%B5%B1%E7%8B%80%E6%85%8B%E5%9C%96.png)
 
 **6 系统部署图**
 
