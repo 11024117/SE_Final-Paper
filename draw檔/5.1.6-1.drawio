@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T14:22:59.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NYIX3bAJqPrekuWtlwk0" version="22.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T14:26:14.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RG0IXBOTEHxo2Zw-plAn" version="22.1.13" type="github">
   <diagram name="Page-1" id="FdPrsYDMRLdAd92Ktg-p">
     <mxGraphModel dx="1042" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -103,30 +103,30 @@
         <mxCell id="xGcRgNuMnpsQmwNyc2wd-31" value="4:結果顯示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="412" y="294" width="76" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xGcRgNuMnpsQmwNyc2wd-32" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=none;gradientDirection=south;rounded=1;" parent="1" vertex="1">
+        <mxCell id="xGcRgNuMnpsQmwNyc2wd-32" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=none;gradientDirection=north;rounded=1;gradientColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="538" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xGcRgNuMnpsQmwNyc2wd-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#d79b00;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#ffe6cc;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xGcRgNuMnpsQmwNyc2wd-32" vertex="1">
           <mxGeometry width="538" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="xGcRgNuMnpsQmwNyc2wd-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;:訂單管理員&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
-          <mxGeometry width="134" height="29" as="geometry">
+        <mxCell id="xGcRgNuMnpsQmwNyc2wd-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;:訂單管理員&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#FFFFFF;gradientDirection=south;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
+          <mxGeometry width="107" height="29" as="geometry">
+            <mxRectangle width="107" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xGcRgNuMnpsQmwNyc2wd-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;管理介面&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientDirection=south;gradientColor=#FFFFFF;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
+          <mxGeometry x="107" width="134" height="29" as="geometry">
             <mxRectangle width="134" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGcRgNuMnpsQmwNyc2wd-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;管理介面&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
-          <mxGeometry x="134" width="135" height="29" as="geometry">
-            <mxRectangle width="135" height="29" as="alternateBounds" />
+        <mxCell id="xGcRgNuMnpsQmwNyc2wd-36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;訂單管理介面&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#FFFFFF;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
+          <mxGeometry x="241" width="191" height="29" as="geometry">
+            <mxRectangle width="191" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGcRgNuMnpsQmwNyc2wd-36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;訂單管理介面&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
-          <mxGeometry x="269" width="135" height="29" as="geometry">
-            <mxRectangle width="135" height="29" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xGcRgNuMnpsQmwNyc2wd-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;訂單數據庫&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=1;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
-          <mxGeometry x="404" width="134" height="29" as="geometry">
-            <mxRectangle width="134" height="29" as="alternateBounds" />
+        <mxCell id="xGcRgNuMnpsQmwNyc2wd-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;訂單數據庫&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=1;gradientColor=#FFFFFF;" parent="xGcRgNuMnpsQmwNyc2wd-33" vertex="1">
+          <mxGeometry x="432" width="106" height="29" as="geometry">
+            <mxRectangle width="106" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
