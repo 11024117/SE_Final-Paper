@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T14:21:02.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="v1ot1hzU8i--8KrW-lqY" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T14:47:17.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vQaF4k3kyXYCQOo0y5Ru" version="22.1.15" type="github">
   <diagram name="第 1 页" id="S8UlN0PGw59GKAXJ4Ia_">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tIm_9evT8lw_4lGu_fnM-1" value="訂餐者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="tIm_9evT8lw_4lGu_fnM-1" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tIm_9evT8lw_4lGu_fnM-4" value="店鋪信息管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f93310;" parent="1" vertex="1">
