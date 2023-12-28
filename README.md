@@ -234,11 +234,11 @@
 
 (7)提交成功,退出系统。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.8-1.png)
 
 根据系统管理员管理商家信息的时序图可以创建如下协作图:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.8-2.png)
 
 **5.1.9 系统管理员维护系统**
 
@@ -256,11 +256,11 @@
 
 (7)提交成功,退出系统。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.9-1.png)
 
 根据系统管理员维护系统的时序图可以创建如下协作图:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.9-2.png)
 
 **5.2 系统活动图**
 
