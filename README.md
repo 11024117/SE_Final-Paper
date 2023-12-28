@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/%E7%9B%AE%E9%8C%84.png)
 
 **1 背景介绍**
 
@@ -32,37 +32,37 @@
 
 大学生网上订餐系统的参与者有:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/3.drawio.png)
 
 **3.1 订餐者用例图**
 
   订餐者可以登录系统,登录后可以订餐,订餐过程包括选择店铺、选择餐饮、下订单以及到餐付款,用餐后还可以对餐饮进行评价。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/3.1.drawio.png)
 
 **3.2 商家用例图** 
   
   商家可以登录系统,登录后需要对订餐者的订单进行核实并安排配送,然后更新店铺有关餐饮信息(增加、删除、修改)。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/3.2.drawio.png)
 
 **3.3 店铺管理员用例图** 
 
  店铺管理员可以更新店铺信息(包括录入新申请通过的商家、修改、删除和 查询店铺信息),还要为每一个店铺建立客户评价档案盒商家监察档案。
 
- ![image]()
+ ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/3.3.drawio.png)
 
  **3.4 订单管理员用例图**
  
    订单管理员当订餐者下订单后要立即生成新订单, 如果订单有所改动需及时更新(查询、修改、删除)。
 
- ![image]()
+ ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/3.4.drawio.png)
 
  **3.5 系统管理员用例图**
  
   系统管理员可以登录系统,对商家和订餐者的信息进行管理(增加、删除、 修改、查询),还有系统的维护。
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/3.5.drawio.png)
 
  **4 系统静态模型**  
  
