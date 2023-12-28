@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T14:25:21.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KQQaHzptRZE4h59N7Rz-" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T15:00:46.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9FL5-5lMF7DYtfh0g2tW" version="22.1.15" type="github">
   <diagram name="第 1 页" id="cdPBf75z0-02DAB7ACqB">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,9 +161,6 @@
             <mxPoint x="330" y="480" as="sourcePoint" />
             <mxPoint x="560" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-65h_tqUYANkpe5B-2re-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3399;" parent="1" vertex="1">
-          <mxGeometry x="775" y="480" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-65h_tqUYANkpe5B-2re-70" value="5:更新店鋪信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="268" width="110" height="30" as="geometry" />
