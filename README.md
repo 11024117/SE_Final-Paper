@@ -122,7 +122,7 @@
 
 根据商家管理店铺的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.2-2.drawio.png)
+![image](https://github.com/11024117/SE_Final-Paper/blob/b3015dffe81e190f701077e773685eb704b92931/%E5%9C%96%E6%AA%94/5.1.2-2.drawio.png)
 
 **5.1.3 店铺管理员管理店铺信息**
 
