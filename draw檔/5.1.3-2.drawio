@@ -1,0 +1,116 @@
+<mxfile host="app.diagrams.net" modified="2023-12-28T14:26:22.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KqzP647IhfW4Jzp_NuDi" version="22.1.15" type="github">
+  <diagram name="第 1 页" id="NGeAJZHBDEzVoeuOTIZT">
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uKztur3fhc9EFDYKpmQg-1" value=":店鋪管理員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-4" value="店鋪信息數據庫" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f93310;" parent="1" vertex="1">
+          <mxGeometry x="50" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-5" value="店鋪數據庫" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f93310;" parent="1" vertex="1">
+          <mxGeometry x="435" y="320" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-6" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#fd1c1c;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="350" as="sourcePoint" />
+            <mxPoint x="135" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-9" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;endFill=0;strokeColor=#f10909;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="uKztur3fhc9EFDYKpmQg-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="140" as="sourcePoint" />
+            <mxPoint x="305" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-12" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;endFill=0;strokeColor=#f10909;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uKztur3fhc9EFDYKpmQg-4" target="uKztur3fhc9EFDYKpmQg-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-14" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;endFill=0;strokeColor=#f10909;exitX=0.407;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uKztur3fhc9EFDYKpmQg-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="190" as="sourcePoint" />
+            <mxPoint x="85" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-15" value="5:退出" style="endArrow=open;endSize=6;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#f31616;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="-0.1429" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="290" as="sourcePoint" />
+            <mxPoint x="70" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
+          <mxGeometry x="65" y="200" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-31" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#fd1c1c;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443.75" y="350" as="sourcePoint" />
+            <mxPoint x="501.25" y="350.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-32" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;endFill=0;strokeColor=#f10909;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.8;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uKztur3fhc9EFDYKpmQg-4" target="uKztur3fhc9EFDYKpmQg-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="112" y="340" as="sourcePoint" />
+            <mxPoint x="617.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-21" value="登錄介面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f93310;" parent="1" vertex="1">
+          <mxGeometry x="430" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-22" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#fd1c1c;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="149.66" as="sourcePoint" />
+            <mxPoint x="505" y="149.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="149.66" />
+              <mxPoint x="490" y="149.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-33" value="4:處理訂單" style="endArrow=open;endSize=6;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#f31616;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="-0.1429" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="240" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-34" value="1:登錄" style="endArrow=openThin;endSize=6;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#f31616;endFill=0;startArrow=none;startFill=0;" parent="1" edge="1">
+          <mxGeometry x="0.4" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="130" as="sourcePoint" />
+            <mxPoint x="310" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="260" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-35" value="2:更新店鋪信息" style="endArrow=openThin;endSize=6;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#f31616;endFill=0;startArrow=none;startFill=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0769" y="14" width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="220" as="sourcePoint" />
+            <mxPoint x="290" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="320" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKztur3fhc9EFDYKpmQg-36" value="3:提交信息" style="endArrow=openThin;endSize=6;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#f31616;endFill=0;startArrow=none;startFill=0;" parent="1" edge="1">
+          <mxGeometry y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="310" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="300" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
