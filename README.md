@@ -1,4 +1,4 @@
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E7%9B%AE%E9%8C%84.png)
+![image]()
 
 **1 背景介绍**
 
@@ -32,43 +32,43 @@
 
 大学生网上订餐系统的参与者有:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/3.drawio.png)
+![image]()
 
 **3.1 订餐者用例图**
 
   订餐者可以登录系统,登录后可以订餐,订餐过程包括选择店铺、选择餐饮、下订单以及到餐付款,用餐后还可以对餐饮进行评价。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-1.drawio.png)
+![image]()
 
 **3.2 商家用例图** 
   
   商家可以登录系统,登录后需要对订餐者的订单进行核实并安排配送,然后更新店铺有关餐饮信息(增加、删除、修改)。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-2.drawio.png)
+![image]()
 
 **3.3 店铺管理员用例图** 
 
  店铺管理员可以更新店铺信息(包括录入新申请通过的商家、修改、删除和 查询店铺信息),还要为每一个店铺建立客户评价档案盒商家监察档案。
 
- ![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-3.drawio.png)
+ ![image]()
 
  **3.4 订单管理员用例图**
  
    订单管理员当订餐者下订单后要立即生成新订单, 如果订单有所改动需及时更新(查询、修改、删除)。
 
- ![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-4.drawio.png)
+ ![image]()
 
  **3.5 系统管理员用例图**
  
   系统管理员可以登录系统,对商家和订餐者的信息进行管理(增加、删除、 修改、查询),还有系统的维护。
 
-  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/3-5.drawio.png)
+  ![image]()
 
  **4 系统静态模型**  
  
   由需求分析中知,我们可以依据主要六个类对象:订餐者、订单管理员、商家、店铺管理员、系统管理员、订单、店铺和餐饮创建完整的类图。
 
-  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/4.drawio.png)
+  ![image]()
 
 **5.1.1 订餐者订餐** 
   
@@ -94,11 +94,11 @@
 
   (11)用餐后对餐饮进行评价。
 
-  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/5-1-1.1.drawio.png)
+  ![image]()
 
 根据订餐者订餐的时序图可以创建如下协作图:
 
-  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/5-1-1.2.drawio.png)
+  ![image]()
 
 **5.1.2 商家管理店铺**
 
@@ -118,11 +118,11 @@
 
 (8)提交成功,退出系统。 
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.2-1.drawio.png)
+![image]()
 
 根据商家管理店铺的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.2-2.drawio.png)
+![image]()
 
 **5.1.3 店铺管理员管理店铺信息**
 
@@ -136,11 +136,11 @@
 
 (5)提交成功,退出系统。  
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.3-1.drawio.png)
+![image]()
 
 根据店铺管理员管理店铺信息的时序图可以创建如下协作图
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.3-2.drawio.png)
+![image]()
 
 **5.1.4 店铺管理员建立客户评价档案**
 
@@ -154,11 +154,11 @@
 
 (5)退出系统。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.4-1.drawio.png)
+![image]()
 
 根据店铺管理员建立客户评价档案的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.4-2.drawio.png)
+![image]()
 
 **5.1.5 店铺管理员建立商家监察档案**
 
@@ -172,11 +172,11 @@
 
 (5)退出系统。 
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.5-1.png)
+![image]()
 
 根据店铺管理员建立商家监察档案的时序图可以创建如下协作图: 
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.5-2.png)
+![image]()
 
 **5.1.6 订单管理员管理订单**
 
@@ -190,11 +190,11 @@
 
 (5)提交成功,退出系统。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.6-1.png)
+![image]()
 
 根据订单管理员管理订单的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.6-2.png)
+![image]()
 
 **5.1.7 系统管理员管理订餐者信息**
 
@@ -212,11 +212,11 @@
 
 (7)提交成功,退出系统。 
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.7-1.png)
+![image]()
 
 根据系統管理员管理订餐者信息的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.7-2.png)
+![image]()
 
 **5.1.8 系统管理员管理商家信息**
 
@@ -234,11 +234,11 @@
 
 (7)提交成功,退出系统。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.8-1.drawio.png)
+![image]()
 
 根据系统管理员管理商家信息的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.8-2.png)
+![image]()
 
 **5.1.9 系统管理员维护系统**
 
@@ -256,23 +256,23 @@
 
 (7)提交成功,退出系统。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.9-1.png)
+![image]()
 
 根据系统管理员维护系统的时序图可以创建如下协作图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.1.9-2.png)
+![image]()
 
 **5.2 系统活动图**
 
 根据大学生网上订餐系统的整个活动过程,创建了如下的系统活动图:
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.2%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.png)
+![image]()
 
 **5.3 系统状态图**
 
 根据前面的分析和设计可以发现,每个参与者在使用系统前都需要进行登录,登录之后就可以进行各自相应的操作,操作完成后退出系统。创建的系统状态图如下: 
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/5.3%E7%B3%BB%E7%B5%B1%E7%8B%80%E6%85%8B%E5%9C%96.png)
+![image]()
 
 **6 系统部署图**
 
@@ -280,13 +280,13 @@
 
 网上订餐系统的构件图我们通过构件映射到系统的实现类中, 说明该构件物理实现的逻辑类,在本系统中,我们可以对订餐者类、系统管理员类、商家类、店铺管理员类、订单管理员类、订单类和餐饮类分别创建对应的构件进行映射。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/6.1%E7%B3%BB%E7%B5%B1%E6%A7%8B%E4%BB%B6%E5%9C%96.drawio.png)
+![image]()
 
 **6.2 系统部署图**
 
 网上订餐系统的部署图描绘的是系统节点上运行资源的安排。包括四个节点,分别是:客户端浏览器、HTTP服务器、数据库服务器和打印机。
 
-![image](https://github.com/11024117/SE_Final-Paper/blob/main/6.2%E7%B3%BB%E7%B5%B1%E9%83%A8%E5%B1%AC%E5%9C%96.png)
+![image]()
 
 **7总结**
 
