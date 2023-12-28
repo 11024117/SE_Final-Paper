@@ -172,11 +172,11 @@
 
 (5)退出系统。 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.5-1.png)
 
 根据店铺管理员建立商家监察档案的时序图可以创建如下协作图: 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.5-2.png)
 
 **5.1.6 订单管理员管理订单**
 
@@ -190,11 +190,11 @@
 
 (5)提交成功,退出系统。
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.6-1.png)
 
 根据订单管理员管理订单的时序图可以创建如下协作图:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.6-2.png)
 
 **5.1.7 系统管理员管理订餐者信息**
 
@@ -212,11 +212,11 @@
 
 (7)提交成功,退出系统。 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.7-1.png)
 
 根据系統管理员管理订餐者信息的时序图可以创建如下协作图:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.7-2.png)
 
 **5.1.8 系统管理员管理商家信息**
 
