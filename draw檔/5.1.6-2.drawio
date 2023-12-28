@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T14:21:40.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="EgQN3GI4wVIYwTeKzut8" version="22.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T14:29:13.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="uWdJLYJsKsJaadf2cA78" version="22.1.13" type="github">
   <diagram name="第 1 页" id="GCEE3g4SaXl2YrQMkeAl">
     <mxGraphModel dx="1422" dy="325" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="RkFhWPHRfU5iy1-Skx0I-22" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="RkFhWPHRfU5iy1-Skx0I-21" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RkFhWPHRfU5iy1-Skx0I-23" value="2:管理訂單信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="RkFhWPHRfU5iy1-Skx0I-23" value="&lt;font color=&quot;#4d4d4d&quot;&gt;2:管理訂單信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="220" y="191" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RkFhWPHRfU5iy1-Skx0I-26" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;strokeColor=#d79b00;startArrow=open;startFill=0;dashed=1;fillColor=#ffe6cc;" parent="1" edge="1">
