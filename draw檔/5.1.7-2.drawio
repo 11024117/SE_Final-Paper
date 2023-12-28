@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2023-12-28T14:12:49.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VHEGzlET-hakLTG7eApe" version="22.1.13" type="github">
+  <diagram name="第 1 页" id="UMWjxeN4UDyKaBPsSXM8">
+    <mxGraphModel dx="1668" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-1" value="&lt;u&gt;:系統管理員&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-232" y="113" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#82b366;endArrow=none;endFill=0;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-216" y="176.75" as="sourcePoint" />
+            <mxPoint x="-216" y="338.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#82b366;endArrow=none;endFill=0;fillColor=#d5e8d4;" parent="1" source="AdiKo4SKmYpfPzEBG6-v-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-201.5999755859375" y="158.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=#82b366;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="AdiKo4SKmYpfPzEBG6-v-5" target="AdiKo4SKmYpfPzEBG6-v-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-188" y="336.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-5" value="&lt;u&gt;管理介面&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="168" y="144.5" width="56" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82b366;endArrow=none;endFill=0;fillColor=#d5e8d4;" parent="1" source="AdiKo4SKmYpfPzEBG6-v-7" target="AdiKo4SKmYpfPzEBG6-v-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-7" value="&lt;u&gt;訂餐者管理&lt;br&gt;介面&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="-251" y="334.5" width="87" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-8" value="&lt;u&gt;訂餐者數據庫&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="163" y="335.5" width="78.5" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-9" value="" style="endArrow=open;endFill=0;html=1;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-145" y="118" as="sourcePoint" />
+            <mxPoint x="-99" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-10" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-9" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-12" value="&lt;font color=&quot;#000000&quot;&gt;7:退出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-257" y="257" width="52" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-13" value="" style="endArrow=open;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;startArrow=none;startFill=0;fillColor=#d5e8d4;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-38" y="340.5" as="sourcePoint" />
+            <mxPoint x="18" y="340.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-14" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-13" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-15" value="&lt;font color=&quot;#000000&quot;&gt;5:提交信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-49" y="316" width="76" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-16" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;startArrow=open;startFill=0;dashed=1;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-225" y="239.25" as="sourcePoint" />
+            <mxPoint x="-225" y="276.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-17" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-16" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-217" y="88" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-18" value="" style="endArrow=none;endFill=0;html=1;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;startArrow=open;startFill=0;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-16" y="269.5" as="sourcePoint" />
+            <mxPoint x="28" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-19" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-18" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-20" value="&lt;font color=&quot;#000000&quot;&gt;4:更新訂餐者信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-41" y="266" width="112" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-21" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;startArrow=open;startFill=0;dashed=1;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-43" y="362.5" as="sourcePoint" />
+            <mxPoint x="13" y="362.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-22" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-21" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-23" value="&lt;font color=&quot;#000000&quot;&gt;6:提交結果顯示&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-65" y="363" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-25" value="&lt;u&gt;登錄&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="-33.5" y="74" width="48.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="AdiKo4SKmYpfPzEBG6-v-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="149" as="sourcePoint" />
+            <mxPoint x="-150" y="99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="AdiKo4SKmYpfPzEBG6-v-25" target="AdiKo4SKmYpfPzEBG6-v-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="110" as="sourcePoint" />
+            <mxPoint x="85" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-28" value="&lt;font color=&quot;#000000&quot;&gt;1:註冊&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-152" y="81" width="52" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-29" value="" style="endArrow=open;endFill=0;html=1;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="85" y="107" as="sourcePoint" />
+            <mxPoint x="129" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-30" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-29" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-31" value="&lt;font color=&quot;#000000&quot;&gt;2:身分驗證&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="71" y="85" width="76" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-32" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;strokeColor=#82b366;startArrow=open;startFill=0;dashed=1;fillColor=#d5e8d4;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-37.25" y="173" as="sourcePoint" />
+            <mxPoint x="18.75" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-33" value="" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="AdiKo4SKmYpfPzEBG6-v-32" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdiKo4SKmYpfPzEBG6-v-34" value="&lt;font color=&quot;#000000&quot;&gt;3:驗證結果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-47.25" y="173.5" width="76" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
