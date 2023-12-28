@@ -68,7 +68,7 @@
  
   由需求分析中知,我们可以依据主要六个类对象:订餐者、订单管理员、商家、店铺管理员、系统管理员、订单、店铺和餐饮创建完整的类图。
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/4.drawio.png)
 
 **5.1.1 订餐者订餐** 
   
@@ -94,11 +94,11 @@
 
   (11)用餐后对餐饮进行评价。
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.1-1.drawio.png)
 
 根据订餐者订餐的时序图可以创建如下协作图:
 
-  ![image]()
+  ![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.1-2.drawio.png)
 
 **5.1.2 商家管理店铺**
 
@@ -118,11 +118,11 @@
 
 (8)提交成功,退出系统。 
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.2-1.drawio.png)
 
 根据商家管理店铺的时序图可以创建如下协作图:
 
-![image]()
+![image](https://github.com/11024117/SE_Final-Paper/blob/main/%E5%9C%96%E6%AA%94/5.1.2-2.drawio.png)
 
 **5.1.3 店铺管理员管理店铺信息**
 
